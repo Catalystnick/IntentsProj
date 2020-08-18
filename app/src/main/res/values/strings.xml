@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="entersomething">entersomething</string>
+    <string name="ok">Ok</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="hello_world">Hello world</string>
+    <string name="to">To</string>
+    <string name="javatpoint_custom_toast">JavaTpoint custom Toast</string>
+    <string name="to_first_activity">to first activity</string>
+</resources>
